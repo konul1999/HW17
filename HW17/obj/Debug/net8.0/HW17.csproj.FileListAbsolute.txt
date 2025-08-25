@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\HW17\HW17\bin\Debug\net8.0\HW17.exe
+C:\Users\ASUS\Desktop\HW17\HW17\bin\Debug\net8.0\HW17.deps.json
+C:\Users\ASUS\Desktop\HW17\HW17\bin\Debug\net8.0\HW17.runtimeconfig.json
+C:\Users\ASUS\Desktop\HW17\HW17\bin\Debug\net8.0\HW17.dll
+C:\Users\ASUS\Desktop\HW17\HW17\bin\Debug\net8.0\HW17.pdb
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.dll
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\refint\HW17.dll
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.pdb
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\HW17.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\HW17\HW17\obj\Debug\net8.0\ref\HW17.dll
